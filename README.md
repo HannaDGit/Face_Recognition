@@ -12,6 +12,6 @@
 
 4. DeepLearningMetrics
   
-  4.1. TripleLoss
+   4.1. TripleLoss
   
-  4.2. TriplesSelection
+   4.2. TriplesSelection
