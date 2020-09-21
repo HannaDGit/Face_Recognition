@@ -21,3 +21,6 @@
    4.1. TripleLoss
   
    4.2. TriplesSelection
+
+
+![image](https://user-images.githubusercontent.com/61636515/93780904-079fe700-fc29-11ea-8649-3929d837bb0d.png)
