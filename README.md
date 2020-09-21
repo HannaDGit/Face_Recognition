@@ -11,7 +11,6 @@
 3. Datasets
 
 4. DeepLearningMetrics
-
   
   4.1. TripleLoss
   
