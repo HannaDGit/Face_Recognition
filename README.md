@@ -24,6 +24,9 @@
   
    4.2. TriplesSelection
    
+   
+   
+   
     
     
     3.2. LFW :  http://vis-www.cs.umass.edu/lfw/
