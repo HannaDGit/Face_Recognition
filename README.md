@@ -7,4 +7,4 @@ due to their 'light' architectures and few parameters to train. Transfer learnin
 We changed the last layers of the models in order to create face embedding as an output. Face
 embedding layers have been trained with chosen deep learning metrics. Our approach has been
 tested using evaluation metrics on LWF database as well as gallery of personal photos. We
-achieved improvements in some areas what was presented in details in this work](https://github.com/HannaDGit/Face_Recognition/blob/master/02709_h_Rozpoznawanie_twarzy_z_wykorzystaniem_wsp%C3%B3%C5%82czesnych_architektur_g%C5%82%C4%99bokich_sieci_neuronowych.ipynb)
+achieved improvements in some areas what was presented in details in this work](hhttps://github.com/HannaDGit/Face_Recognition/blob/master/dnn_Rozpoznawanie_twarzy_z_wykorzystaniem_wsp%C3%B3%C5%82czesnych_architektur_g%C5%82%C4%99bokich_sieci_neuronowych.pdf)
