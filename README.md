@@ -9,3 +9,4 @@ We changed the last layers of the models in order to create face embedding as an
 embedding layers have been trained with chosen deep learning metrics. Our approach has been
 tested using evaluation metrics on LWF database as well as gallery of personal photos. We
 achieved improvements in some areas what was presented in details in this work.
+All notebooks were created in Colab with table of contents.
